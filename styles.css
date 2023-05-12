@@ -1,0 +1,219 @@
+.navbar-brand{
+    font-family: 'DM Serif Display', serif;
+    font-size: 3rem !important;
+    padding: 0% !important;
+    color: #314438 !important;
+    margin-right: 20px !important;
+}
+
+.navbar{
+    margin-right: 150px;
+    margin-left: 150px;
+    padding: 0% !important;
+}
+
+.nav-link{
+    padding-bottom: 9px !important;
+    padding-top: 11px !important;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 1.2rem !important;
+    padding-left: 15px !important;
+
+}
+
+.btn{
+    border-radius: 25px !important;
+    font-size: 1rem !important;
+    padding-top: 8px !important;
+    padding-left: 30px !important ;
+    padding-right: 30px !important;
+    font-family: 'Urbanist', sans-serif !important;
+    color: white !important;
+    background-color: #314438 !important;
+    font-weight: bold !important;
+}
+
+
+h1{
+    font-size: 3.5rem !important;
+    font-family: 'Source Serif Pro', serif;
+
+}
+.feature-title{
+    font-size: 1.25rem !important;
+    font-weight: bold !important;
+    margin-top: 17.5px !important;
+    margin-bottom: 15px !important;
+}
+
+.head {
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+    font-size: 3rem !important;
+    font-weight:550 !important;
+
+}
+
+.head2{
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+    font-size: 3rem !important;
+    font-weight:550 !important;
+    padding-top: 4rem;
+}
+.text p{
+    font-size: 25px;
+    font-family: 'Urbanist', sans-serif;
+    text-align: center;
+
+}
+.para{
+    text-align:left;
+    font-size: 22px;
+    font-family: 'Urbanist', sans-serif;
+
+}
+.lead {
+    list-style-type: none;
+    margin-left: 10px;
+}
+
+.lead li {
+    margin-bottom: 12px;
+    margin-left: -10px;
+    display: flex;
+    align-items: center;
+}
+
+.lead li::before {
+    color: transparent;
+    font-size: 1px;
+    content: " ";
+    margin-left: -1.3em;
+    margin-right: 15px;
+    padding: 10px;
+    background-color: #314438;
+    -webkit-mask-image: url("./icons/circle-check-solid.svg");
+            mask-image: url("./icons/circle-check-solid.svg");
+}
+
+
+.lead{
+    font-family: 'Urbanist', sans-serif;
+}
+
+.feature{
+    font-family: 'Urbanist', sans-serif;
+    text-align: center;
+}
+#biz{padding: 1rem 0px;
+    padding-bottom: 30px !important;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+#biz img{
+    filter: invert(100%) sepia(100%) saturate(100%) hue-rotate(212deg) brightness(1000%) contrast(1000%);
+    height: 3rem;
+    width:fit-content}
+
+.brand{
+    padding-top: 25px;
+    color: white;
+    font-size: 1.25rem;
+    text-align: center;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:500;
+    margin-bottom: 0 !important;
+}
+      
+.featured-in{
+    background-color: #314438;
+}
+#fortune{
+    height: 2rem !important;
+}
+
+#inc{
+    height: 2rem !important;
+}
+
+.jumbo{
+    margin: 0px 150px;
+}
+
+.price{
+    color: #314438;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 20px;
+}
+.parent{
+    position: absolute;
+}
+.jumbo2{
+    z-index: -1;
+    padding:150px;
+    background-color: #314438;
+    position: relative;
+    right: 50%;
+}
+
+.landing{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.card {
+    border-width: 0px !important;
+  }
+
+  .fas{
+    color: #314438 !important;
+  }
+
+  h5,h6{
+    font-family: 'Urbanist', sans-serif;
+  }
+
+  h5{
+    font-weight: bold !important;
+    color: #314438 !important;
+  }
+  
+  .table p{
+    font-family: 'Urbanist', sans-serif !important;
+  }
+
+  .expert{
+    background-color: #c8dce4;
+  }
+
+  footer{
+    background-color: #314438;
+    color: white;
+    font-size: 1.2rem;
+    font-family: 'Urbanist', sans-serif !important;
+  }
+
+  footer .nav-link{
+    
+    color: white !important;
+  }
+
+  footer .btn{
+    border-color: white !important;
+
+  }
+
+  #nav{
+    text-align: center !important;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  footer svg{
+    color: white  !important;
+  }
